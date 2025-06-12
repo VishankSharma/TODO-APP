@@ -1,0 +1,18 @@
+.ticket-num {
+  display: inline-block;
+  background-color: #fef3c7;
+  color: #92400e;
+  padding: 0.6rem 1rem;
+  margin: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 20%;
+  border: 2px solid #facc15;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.ticket-num:hover {
+  transform: scale(1.1);
+  background-color: #fde68a;
+}

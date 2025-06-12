@@ -1,5 +1,3 @@
-# React TODO-APP
-// todo app 
- --add task
- --delete task
- --mark as complete
+# React LOTTERY-GAME
+// generate ticket
+// check ticket
